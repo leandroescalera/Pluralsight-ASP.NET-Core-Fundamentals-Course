@@ -44,7 +44,6 @@ D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pl
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.0\OdeToFood.pdb
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.0\OdeToFood.Views.dll
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.0\OdeToFood.Views.pdb
-D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.csprojAssemblyReference.cache
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\staticwebassets\OdeToFood.StaticWebAssets.Manifest.cache
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\staticwebassets\OdeToFood.StaticWebAssets.xml
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
@@ -58,6 +57,7 @@ D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pl
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\Razor\Pages\Restaurants\List.cshtml.g.cs
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -68,3 +68,4 @@ D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pl
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.dll
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.pdb
 D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.csproj.CopyComplete
+D:\Informatica\Repository GitHub\Pluralsight-ASP.NET-Core-Fundamentals-Course\Pluralsight-ASP.NET-Core-Fundamentals-Course\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.csprojAssemblyReference.cache
